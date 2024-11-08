@@ -8,6 +8,20 @@
 ## Kauã Almeida Silveira RM552618
 
 
+### REPOSITÓRIO 
+
+https://github.com/ChallengeOdontoPrev/generativeIA 
+
+### LINK DO MODELO NO ROBOFLOW: 
+
+https://universe.roboflow.com/workspace-sfj9d/aparelho-dentario/model/1 
+
+
+### LINK DO VÍDEO 
+
+https://www.youtube.com/watch?v=Hit9SsLRx1E
+
+
 ### RESUMO 
 
 Com base nos conhecimentos adquiridos em sala de aula, o projeto visa desenvolver um serviço de validação e documentação de procedimentos odontológicos, com o objetivo de reduzir e prevenir fraudes em sinistros. A solução proposta integra-se aos sistemas de gestão já utilizados pela OdontoPrev, utilizando imagens capturadas pelos dentistas antes e após cada procedimento. 
@@ -27,9 +41,12 @@ A solução proposta tem como objetivo adicionar uma camada extra de segurança 
 
 Com a documentação das validações, o sistema não apenas proporciona maior segurança, mas também contribui para a prevenção de fraudes em sinistros, uma vez que os dados validados podem ser usados para verificar a autenticidade de qualquer consulta ou urgência reportada. 
 
+
+
 ### FERRAMENTAS UTILIZADAS E COMO SERÃO APLICADAS 
 
 Para implementar a solução de visão computacional, utilizaremos o Roboflow, uma plataforma avançada que facilita a criação, treinamento e integração de modelos de IA para processamento de imagens. O Roboflow foi escolhido pela sua capacidade de simplificar o processo de treinamento de modelos e pela facilidade de integração com sistemas existentes. 
+
 
 
 #### API do Roboflow e Integração com Sistemas 
@@ -43,6 +60,8 @@ Envio e recebimento de imagens para análise em tempo real;
 Treinamento e ajuste de modelos diretamente na plataforma Roboflow, com suporte a diferentes tipos de dados (imagens, anotações e metadados); 
 
 Atualização automática do modelo, permitindo que ele se refine continuamente com novas imagens e anotações, otimizando os resultados ao longo do tempo. 
+
+
 
 #### Treinamento de Dados e Customização 
 
@@ -60,6 +79,8 @@ Ajustes contínuos e validação do modelo: Durante o processo de treinamento, p
 
  ![Fluxo](https://github.com/ChallengeOdontoPrev/generativeIA/blob/main/Fluxo%20da%20arquitetura.png)
 
+
+
 ## EVOLUÇÃO EM RELAÇÃO À PRIMEIRA ENTREGA 
 
 Na primeira sprint, o foco foi entender os requisitos do projeto, definir a arquitetura da solução e criar um esboço inicial. Nesta fase, buscamos estabelecer uma base sólida para o desenvolvimento. 
@@ -71,27 +92,3 @@ Principais avanços:
 Da concepção à execução: Saímos de um modelo conceitual para uma versão funcional que já é capaz de processar imagens e realizar validações básicas de procedimentos odontológicos. 
 
 Aprendizado e iteração: Durante o desenvolvimento do MVP, surgiram novos desafios e oportunidades de aprimoramento. O principal desafio foi melhorar a qualidade da base de dados, ajustando as anotações e aumentando a diversidade das imagens para garantir um treinamento mais robusto. Esses ajustes permitiram aprimorar a precisão do modelo. 
-
- 
-
-### REPOSITÓRIO 
-
-https://github.com/ChallengeOdontoPrev/generativeIA 
-
- 
-
-### LINK DO MODELO NO ROBOFLOW: 
-
-https://universe.roboflow.com/workspace-sfj9d/aparelho-dentario/model/1 
-
- 
-
-### LINK DO VÍDEO 
-
-https://www.youtube.com/watch?v=Hit9SsLRx1E
-
-
-
- 
-
- 
