@@ -58,7 +58,7 @@ Ajustes contínuos e validação do modelo: Durante o processo de treinamento, p
 
 ### DESENHO MACRO DA APLICAÇÃO E INTEGRAÇÃO COM O ROBOFLOW 
 
- ![Fluxo](Fluxo da arquitetura.png)
+ ![Fluxo](https://github.com/ChallengeOdontoPrev/generativeIA/blob/main/Fluxo%20da%20arquitetura.png)
 
 ## EVOLUÇÃO EM RELAÇÃO À PRIMEIRA ENTREGA 
 
