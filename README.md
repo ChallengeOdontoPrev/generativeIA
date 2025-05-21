@@ -21,6 +21,13 @@ https://universe.roboflow.com/odontoprev-ky4br/valiteeth
 
 https://www.youtube.com/watch?v=ghnot6ro-0M
 
+### PROBLEMA ENCONTRADO
+
+Atualmente, a OdontoPrev enfrenta um desafio significativo: a falta de validação eficaz e documentação dos procedimentos odontológicos. Essa lacuna permite que clientes e dentistas falsifiquem ou exagerem procedimentos, resultando em registros de consultas desnecessárias ou inexistentes. Esse cenário mina a confiança no processo e gera perdas financeiras consideráveis para a empresa.
+
+### COMO RESOLVER??
+
+Para resolver essa questão, nossa solução idealizada adiciona uma camada robusta de segurança ao processo de validação e documentação. Utilizando visão computacional, o sistema garante que o procedimento foi realizado corretamente através da análise de imagens capturadas no início e no fim de cada atendimento. Essa validação visual, além de proporcionar maior segurança, é fundamental para a prevenção de fraudes em sinistros, pois os dados confirmados podem ser usados para verificar a autenticidade de qualquer consulta ou urgência reportada.
 
 ### RESUMO 
 
@@ -33,19 +40,6 @@ Atendente: Gerencia as consultas, sendo responsável pelo cadastro, edição, ex
 Dentista: Tem a responsabilidade de executar a consulta. Isso inclui acessar as informações detalhadas fornecidas pela atendente, capturar as imagens "antes" e "depois" do procedimento, e finalizar o registro da consulta.
 
 A visão computacional será o pilar da validação, analisando as imagens para verificar a autenticidade e a conformidade dos procedimentos realizados. Ao assegurar que cada procedimento de fato ocorreu e foi documentado corretamente, buscamos eliminar a possibilidade de sinistros fraudulentos, onde consultas poderiam ser indevidamente reportadas sem a devida execução.
- 
-
-### DESCRIÇÃO DO PROBLEMA A RESOLVER 
-
-O problema identificado é a falta de validação eficaz e documentação dos procedimentos odontológicos, o que facilita a ocorrência de fraudes em sinistros. Atualmente, tanto clientes quanto dentistas têm a possibilidade de falsificar ou exagerar procedimentos, resultando em registros de consultas desnecessárias ou inexistentes, o que prejudica a confiança no processo e gera perdas financeiras para a OdontoPrev. 
-
- 
-
-### OBJETIVOS DA SOLUÇÃO IDEALIZADA 
-
-A solução proposta tem como objetivo adicionar uma camada extra de segurança ao processo de validação e documentação dos procedimentos odontológicos. Utilizando visão computacional, o serviço garante que o procedimento foi realizado corretamente, por meio da análise das imagens tiradas no início e no fim de cada atendimento. 
-
-Com a documentação das validações, o sistema não apenas proporciona maior segurança, mas também contribui para a prevenção de fraudes em sinistros, uma vez que os dados validados podem ser usados para verificar a autenticidade de qualquer consulta ou urgência reportada. 
 
  
 
